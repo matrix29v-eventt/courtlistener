@@ -87,7 +87,7 @@ Your email
 
 Example:
 
-CourtListenerDemo/1.0 (Anzer Farooq; matrix29v@gmail.com)
+CourtListenerDemo/1.0 (Your name; mail id)
 
 
 CourtListener blocks generic UAs.
